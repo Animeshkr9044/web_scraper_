@@ -1,1 +1,4 @@
 Flask
+flask_cors
+request
+bs4
